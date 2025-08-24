@@ -190,14 +190,9 @@ python3 netglimpse.py -ic 203.0.113.0/30 -sa -sf
 
 ## 📸 Project Gallery
 
-### Default Output
-![Default Output](gallery/default_output.png)
-
-### Display Found IPs (`-sa`)
-![Display Found IPs](gallery/silent_found_output.png)
-
-### Display Not-Found IPs (`-sa -sf`)
-![Display Not-Found IPs](gallery/silent_not_found_output.png) 
+| Default Output | Silent Found | Silent Not Found |
+|----------------|-------------|----------------|
+| <img src="gallery/default_output.png" width="300"/> | <img src="gallery/silent_found_output.png" width="300"/> | <img src="gallery/silent_not_found_output.png" width="300"/> |
 
 ---
 
