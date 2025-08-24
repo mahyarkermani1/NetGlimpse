@@ -53,21 +53,21 @@ netglimpse/
 **1) Clone the repository**
 ```bash
 git clone https://github.com/mahyarkermani1/NetGlimpse.git
-cd netglimpse
+cd NetGlimpse
 ```
 
 **2) Create a virtual environment (recommended)**
 - Linux/macOS:
-```bash
-python3 -m venv env
-source env/bin/activate
-```
+  ```bash
+  python3 -m venv env
+  source env/bin/activate
+  ```
 
 - Windows (PowerShell):
-```powershell
-py -3 -m venv env
-.\env\Scripts\Activate.ps1
-```
+  ```powershell
+  py -3 -m venv env
+  .\env\Scripts\Activate.ps1
+  ```
 
 **3) Install dependencies**
 ```bash
